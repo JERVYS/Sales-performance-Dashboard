@@ -37,7 +37,7 @@ The overview dashboard combines key performance indicators and visualizations to
 
 The KPI section highlights Total Sales, Total Orders, and Average Sales per Order, providing insight into revenue size, transaction volume, and customer purchasing behavior.
 
-![Sales by Year and Category](images/sales_by_year_category.png)
+![Sales by Year and Category](images/Sales_by_Year_Category.png)
 
 This visualization compares sales performance across product categories over time, allowing the identification of category leaders and changes in contribution by year.
 
