@@ -44,3 +44,18 @@ This visualization compares sales performance across product categories over tim
 ![Sales Trend by Year](images/Sales_trend_by_Year.png)
 
 The time-series chart illustrates the overall sales trend across the analyzed period, helping assess whether the business shows growth or stability over time.
+
+## Key Insights
+
+- Technology is the leading product category across the analyzed period, contributing the largest share of total sales.
+- Overall sales show a positive upward trend from 2015 to 2018, indicating consistent business growth.
+- Furniture and Office Supplies maintain relatively stable contributions, with no significant shifts in category dominance.
+- The average sales per order suggests balanced growth, where revenue increases are driven by both order volume and transaction value.
+
+## Conclusion & Next Steps
+
+This project demonstrates how sales data can be transformed into actionable insights through structured analysis and effective visualization.  
+By addressing data quality issues and defining meaningful KPIs, the dashboard provides a reliable overview of business performance.
+
+As next steps, the analysis could be extended by incorporating more granular time periods, customer-level data, or additional profitability metrics.  
+Future iterations could also include data preparation and analysis using Python to further enhance scalability and analytical depth.
