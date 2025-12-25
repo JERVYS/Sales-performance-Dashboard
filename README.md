@@ -18,3 +18,15 @@ The analysis was guided by the following business questions:
 - How did total sales evolve over the years analyzed?
 - Which product categories contribute the most to overall revenue?
 - Is revenue growth driven by an increase in the number of orders or by higher average sales per order?
+
+## Analysis Questions
+
+The analysis was guided by the following business questions:
+
+- How did total sales evolve over the years analyzed?
+- Which product categories contribute the most to overall revenue?
+- Is revenue growth driven by an increase in the number of orders or by higher average sales per order?
+
+## Dashboard & Visualizations
+
+The dashboard was designed to provide a clear and high-level view of sales performance while allowing basic exploration through filters.
