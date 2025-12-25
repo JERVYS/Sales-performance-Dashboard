@@ -41,6 +41,6 @@ The KPI section highlights Total Sales, Total Orders, and Average Sales per Orde
 
 This visualization compares sales performance across product categories over time, allowing the identification of category leaders and changes in contribution by year.
 
-![Sales Trend by Year](images/sales_trend_by_year.png)
+![Sales Trend by Year](images/Sales_trend_by_Year.png)
 
 The time-series chart illustrates the overall sales trend across the analyzed period, helping assess whether the business shows growth or stability over time.
