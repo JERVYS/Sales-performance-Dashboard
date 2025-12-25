@@ -32,16 +32,13 @@ The analysis was guided by the following business questions:
 The dashboard was designed to provide a clear and high-level view of sales performance while allowing basic exploration through filters.
 
 ![Dashboard Overview](images/Dashboard_Overview.png)
-
 The overview dashboard combines key performance indicators and visualizations to summarize overall business performance at a glance.
-![KPI Summary](images/KPI_Summary.png)
 
+![KPI Summary](images/KPI_Summary.png)
 The KPI section highlights Total Sales, Total Orders, and Average Sales per Order, providing insight into revenue size, transaction volume, and customer purchasing behavior.
 
 ![Sales by Year and Category](images/Sales_by_Year_Category.png)
-
 This visualization compares sales performance across product categories over time, allowing the identification of category leaders and changes in contribution by year.
 
 ![Sales Trend by Year](images/Sales_trend_by_Year.png)
-
 The time-series chart illustrates the overall sales trend across the analyzed period, helping assess whether the business shows growth or stability over time.
