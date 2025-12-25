@@ -30,6 +30,7 @@ The analysis was guided by the following business questions:
 ## Dashboard & Visualizations
 
 The dashboard was designed to provide a clear and high-level view of sales performance while allowing basic exploration through filters.
+
 ![Dashboard Overview](images/Dashboard_Overview.png)
 
 The overview dashboard combines key performance indicators and visualizations to summarize overall business performance at a glance.
